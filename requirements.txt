@@ -1,0 +1,15 @@
+FastAPI
+uvicorn[standard]
+gunicorn
+python-dotenv
+pydantic_settings
+databases[postgresql]
+psycopg2-binary
+fastapi[all]
+rich
+asgi-correlation-id
+python-json-logger
+python-jose
+python-multipart
+passlib[bcrypt]
+bcrypt==4.0.1
